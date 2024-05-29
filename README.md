@@ -5,6 +5,7 @@
 | Muhammad Reza Maulana |  312210303 | TI.22.A3 |
 
 </br>
+
 ## Hasil Running
 
 ![Screenshot (99)](https://github.com/MuhammadReza1234/Tugas12-Pengolahan-Citra/assets/115516607/e147b731-fd58-4704-86b6-a7eb0866bd9c)
